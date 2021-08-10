@@ -1,0 +1,13 @@
+
+Total number of ontime flights:  12372
+
+Total number of flights:  17296
+
+Total delayed flights:   4924
+
+0    Airline:  WN\n
+dtype: object
+0    Origin:  ATL\n
+dtype: object
+0    Destination LGA\n
+dtype: object

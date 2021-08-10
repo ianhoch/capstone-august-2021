@@ -1,0 +1,12 @@
+Total number of ontime flights:  13519
+
+Total number of flights:  16100
+
+Total delayed flights:   2581
+
+0    Airline:  WN\n
+dtype: object
+0    Origin:  DEN\n
+dtype: object
+0    Destination DEN\n
+dtype: object

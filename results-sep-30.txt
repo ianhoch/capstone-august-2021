@@ -1,0 +1,12 @@
+Total number of ontime flights:  14024
+
+Total number of flights:  16291
+
+Total delayed flights:   2267
+
+0    Airline:  AA\n
+dtype: object
+0    Origin:  ORD\n
+dtype: object
+0    Destination BOS\n
+dtype: object
